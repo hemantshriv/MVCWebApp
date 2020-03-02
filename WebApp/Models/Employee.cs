@@ -1,5 +1,6 @@
 ﻿namespace WebApp.Models
 {
+    // inital commit
     public class Employee
     {
         public int Id { get; set; }
